@@ -1,0 +1,22 @@
+[
+  {
+    "id": "test_yongen",
+    "name": "Test Yongen",
+    "ref": "test_yongen/full_imgs/00000000.png"
+  },
+  {
+    "id": "aa",
+    "name": "Aa",
+    "ref": "aa/full_imgs/00000000.png"
+  },
+  {
+    "id": "test_avatar_5",
+    "name": "Test Avatar 5",
+    "ref": "test_avatar_5/full_imgs/00000000.png"
+  },
+  {
+    "id": "g",
+    "name": "G",
+    "ref": "g/full_imgs/00000000.png"
+  }
+]
